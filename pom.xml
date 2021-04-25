@@ -6,12 +6,12 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>2.4.5</version>
-		<relativePath /> <!-- lookup parent from repository -->
+		<version>2.4.0</version>
 	</parent>
 	<groupId>jfv.challenge.price</groupId>
-	<artifactId>price</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<artifactId>jfvTest</artifactId>
+	<version>0.0.1</version>
+	<packaging>jar</packaging>
 	<name>price</name>
 	<description>challenge price capitole</description>
 	<properties>
