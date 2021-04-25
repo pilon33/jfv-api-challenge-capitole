@@ -29,6 +29,8 @@
 
 * docker run -p 8080:8080 jfvadez/jfv-api-challenge-capitole-img
 
+## 3- Running  Test  :
 
+* mvn test
 
 
